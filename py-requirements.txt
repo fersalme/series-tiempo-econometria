@@ -1,0 +1,26 @@
+# paquetes básicos para análisis de datos y modelamiento
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+
+# series de tiempo
+statsmodels
+pmdarima
+statsforecast
+mlforecast
+utilsforecast
+skforecast
+fpppy
+
+# paquetes para machine learning y deep learning
+scikit-learn
+prophet
+tensorflow
+keras
+
+# datos financieros y económicos
+wbgapi
+yfinance
+
